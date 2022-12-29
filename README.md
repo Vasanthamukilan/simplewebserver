@@ -21,7 +21,7 @@ from http.server import HTTPServer,BaseHTTPRequestHandler
 content ="""
 <html>
 <body>
-<h1>Welcome to the webserver </h1>
+<h1>Django</h1>
 </body>
 </html""" 
 class WebHandler(BaseHTTPRequestHandler):
