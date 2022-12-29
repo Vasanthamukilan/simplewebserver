@@ -38,8 +38,8 @@ httpd.serve_forever()
 ```   
 ## OUTPUT:
 ## server side output:
-!['output'](/Screenshot%20from%202022-12-08%2011-04-59.png)
+!['output'](/Screenshot%20from%202022-12-29%2010-44-27.png)
 ## Client side output
 !['output'](/output1.png)
 ## RESULT:
-This program is executed succesfully.
+This program is executed successfully.
